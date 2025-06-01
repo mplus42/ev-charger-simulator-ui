@@ -41,5 +41,5 @@ This project provides a user interface to create, update, and remove EV charger 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/ev-charger-simulator-ui.git
+git clone https://github.com/mplus42/ev-charger-simulator-ui.git
 cd ev-charger-simulator-ui
